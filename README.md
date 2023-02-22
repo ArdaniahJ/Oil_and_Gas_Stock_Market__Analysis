@@ -1,2 +1,2 @@
-# OnG_Stock_Market__Analysis
-Stock Market Analysis on Oil and Gas Companies (BHP, Exxonmobil, Petronas, Hess Oil)
+# The Big 4 Oil & Gas Stock Market Analysis
+Stock Market Analysis on Oil and Gas Companies (Exxonmobil, Chevron, Shell, BP)
